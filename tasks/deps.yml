@@ -38,6 +38,7 @@
   - nodejs
   - curl
   - make
+  - htop
   - gcc
   - "{{ g_plus_plus }}"
   - "{{ ffi_devel_package }}"
